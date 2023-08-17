@@ -14,3 +14,10 @@
     align-items: center;
     justify-content: center;
 }
+
+#left, #right {
+    width: 18.75rem;
+    min-height: 25rem;
+    margin: 20px;
+    border: 2px dashed #fff;
+}
